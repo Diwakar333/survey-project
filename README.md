@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![DALL·E 2024-08-13 17 55 39 - A wireframe diagram for a survey data visualization React application  The wireframe includes the following sections___1  __Header___ A simple header ](https://github.com/user-attachments/assets/a3d27d85-de67-45ba-acae-060aac8d76ed)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
