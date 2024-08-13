@@ -1,0 +1,2162 @@
+[
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 1,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Some College', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 2,
+    "Persona": "['Age: 30', 'Sex: Female', 'Education Level: Bachelors', 'Census Division: West South Central', 'Race: White', 'Hispanic/Latino Origin: Yes', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an Urban cluster', 'Household Annual Income: $35,000 to $49,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 3,
+    "Persona": "['Age: 63', 'Sex: Female', 'Education Level: Masters', 'Census Division: East South Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 4,
+    "Persona": "['Age: 67', 'Sex: Male', 'Education Level: PhD', 'Census Division: West South Central', 'Race: Asian', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 5,
+    "Persona": "['Age: 65', 'Sex: Male', 'Education Level: Associates', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 6,
+    "Persona": "['Age: 67', 'Sex: Female', 'Education Level: Masters', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $200,000 or more', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 7,
+    "Persona": "['Age: 85', 'Sex: Male', 'Education Level: Bachelors', 'Census Division: Middle Atlantic', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 1', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $125,000 to $149,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 8,
+    "Persona": "['Age: 19', 'Sex: Male', 'Education Level: Some College', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $75,000 to $99,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 9,
+    "Persona": "['Age: 45', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: East North Central', 'Race: White', 'Hispanic/Latino Origin: No', 'Home Ownership: Rent', 'Number of Vehicles in Household: 2', 'Living in a Urban Area: Not in urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 1,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 2,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 3,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 4,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 1,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 2,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 3,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 5,
+    "Alt": 4,
+    "chosen_choice_letter": "B",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 1,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 4
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 2,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 2,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 3,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 1,
+    "What range and charging time will this car offer": 3
+  },
+  {
+    "ID": 10,
+    "Persona": "['Age: 51', 'Sex: Male', 'Education Level: High School Diploma', 'Census Division: South Atlantic', 'Race: Black or African American', 'Hispanic/Latino Origin: No', 'Home Ownership: Own', 'Number of Vehicles in Household: 3', 'Living in a Urban Area: In an urban area', 'Household Annual Income: $50,000 to $74,999', 'Number of Female Children in the household: 0', 'Number of Male Children in the household: 0', 'Number of Children Aged zero to five years old in the household: 0', 'Number of Children Aged six to ten years old in the household: 0', 'Number of Children Aged eleven to fifteen years old in the household: 0']",
+    "Task": 6,
+    "Alt": 4,
+    "chosen_choice_letter": "C",
+    "Will this car have advanced safety features?": 0,
+    "What range and charging time will this car offer": 0
+  }
+]

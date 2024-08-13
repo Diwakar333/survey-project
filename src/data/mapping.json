@@ -1,0 +1,53 @@
+{
+  "Age": {
+    "51": "51",
+    "40": "40",
+    "30": "30"
+  },
+  "Sex": {
+    "Male": "Male",
+    "Female": "Female"
+  },
+  "Education Level": {
+    "High School Diploma": "High School Diploma",
+    "Bachelor's Degree": "Bachelor's Degree"
+  },
+  "Census Division": {
+    "South Atlantic": "South Atlantic"
+  },
+  "Race": {
+    "Black or African American": "Black or African American"
+  },
+  "Hispanic/Latino Origin": {
+    "No": "No"
+  },
+  "Home Ownership": {
+    "Own": "Own",
+    "Rent": "Rent"
+  },
+  "Number of Vehicles in Household": {
+    "3": "3"
+  },
+  "Living in a Urban Area": {
+    "In an urban area": "Urban",
+    "In a rural area": "Rural"
+  },
+  "Household Annual Income": {
+    "$50,000 to $74,999": "$50,000 to $74,999"
+  },
+  "Number of Female Children in the household": {
+    "0": "0"
+  },
+  "Number of Male Children in the household": {
+    "0": "0"
+  },
+  "Number of Children Aged zero to five years old in the household": {
+    "0": "0"
+  },
+  "Number of Children Aged six to ten years old in the household": {
+    "0": "0"
+  },
+  "Number of Children Aged eleven to fifteen years old in the household": {
+    "0": "0"
+  }
+}
